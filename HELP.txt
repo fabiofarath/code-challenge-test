@@ -1,0 +1,3 @@
+Project create on IntelliJ IDE.
+
+Please run it together with code-challenge Java server.
